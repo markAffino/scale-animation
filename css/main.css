@@ -1,0 +1,16 @@
+/**
+* Base styles
+**/
+
+:root {
+  --main-color: #ff565c;
+  --light-color: #f7f7f7;
+  --dark-color: #1d1f24;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
